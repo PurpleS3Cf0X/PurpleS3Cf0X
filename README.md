@@ -1,4 +1,4 @@
-![Purple Security Fox Banner](banner.png)<img width="3168" height="1344" alt="Gemini_Generated_Image_k0dg11k0dg11k0dg_11zon" src="https://github.com/user-attachments/assets/143d80a1-c8d7-42e1-9c95-78aeee606795" />
+<img width="3168" height="1344" alt="Gemini_Generated_Image_k0dg11k0dg11k0dg_11zon" src="https://github.com/user-attachments/assets/143d80a1-c8d7-42e1-9c95-78aeee606795" />
 
 
 <h1 align="center">Hi there, I'm PurpleS3Cf0X 🦊💜</h1>
