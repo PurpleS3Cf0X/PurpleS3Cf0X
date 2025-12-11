@@ -29,7 +29,7 @@ I am a security developer focused on **offensive security automation**. My work 
 #### 🧠 **AI & Automation**
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[ImpetusAI](https://github.com/PurpleS3Cf0X/ImpetusAI)** | Next-gen pentesting framework leveraging Artificial Intelligence to predict and analyze attack vectors. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **[Impetus2AI](https://github.com/PurpleS3Cf0X/Impetus2AI)** | Next-gen pentesting framework leveraging Artificial Intelligence to predict and analyze attack vectors. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
 | **[Use_The_FORCE](https://github.com/PurpleS3Cf0X/Use_The_FORCE)** | A Python-based RSS parser designed to scrape and aggregate threat intelligence and security news events in real-time. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 #### ⚔️ **Red Team Operations**
